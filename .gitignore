@@ -1,0 +1,6 @@
+dependencies/javafx/*.jar
+dependencies/javafx/*.so
+dependencies/javafx/*.properties
+logs/*.log
+logs/*.log.lck
+out/

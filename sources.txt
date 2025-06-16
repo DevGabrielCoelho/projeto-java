@@ -1,0 +1,10 @@
+src/app/App.java
+src/controller/MainController.java
+src/controller/WebController.java
+src/controller/CronController.java
+src/model/Client.java
+src/model/DataFactory.java
+src/model/Device.java
+src/model/Guarantee.java
+src/model/Service.java
+src/model/Type.java
