@@ -109,3 +109,15 @@ Para dúvidas, sugestões ou contribuições:
 * **Gabriel Coelho**
 * GitHub: [DevGabrielCoelho](https://github.com/DevGabrielCoelho)
 * E-mail: [gabriel.coelhosousasantos.pv@gmail.com](mailto:gabriel.coelhosousasantos.pv@gmail.com)
+
+* **Carlos Eduardo**
+* E-mail: [carlosebarboza4@gmail.com](mailto:carlosebarboza4@gmail.com)
+
+* **David Igor**
+* E-mail: [igoroliveira0906@gmail.com](mailto:igoroliveira0906@gmail.com)
+
+* **Mariana Lorena**
+* E-mail: [marianalorenasilvacabral@gmail.com](mailto:marianalorenasilvacabral@gmail.com)
+
+* **Vinícius Oliveira**
+* E-mail: [mailto:viniciusoliveirab8@gmail.com](mailto:viniciusoliveirab8@gmail.com)
